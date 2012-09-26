@@ -39,15 +39,15 @@ but especially also from younger researchers at the PhD or
 postdoctoral level, and also serve as a forum for these researchers to
 present their research.
 
-# Please forward this, RSVP requested
+# Please forward this link, RSVP requested
 
-We would therefore ask you to please forward this to the members of
-your group. Please encourage them to either: a) directly respond to us
-in order to collect their e-mail addresses for the distribution of
-further information or b) sign up to the Neuroscience in Vienna Google
-Group (see below).
+We would therefore ask you to please forward the link to this page to
+the members of your group. Please encourage them to either: a)
+directly respond to us in order to collect their e-mail addresses for
+the distribution of further information or b) sign up to the
+Neuroscience in Vienna Google Group (see below).
 
-You also are encouraged to forward this email to other potentially
+You also are encouraged to forward this link to other potentially
 interested parties, and note that we are not strict about the
 definitions of "Vienna" or "Neuroscience". Please respond to
 [andrew.straw@imp.ac.at](mailto:andrew.straw@imp.ac.at) by 5 November
@@ -60,9 +60,9 @@ To keep in touch, please subscribe to our Google Group at
 [https://groups.google.com/forum/#!forum/neuroscience-in-vienna](https://groups.google.com/forum/#!forum/neuroscience-in-vienna). To
 keep you up to date about this and future meetings, we will also
 subscribe you to this list when RSVP - please indicate if you want to
-opt out. We have also set up a that you are now reading at
-[http://neuro-vienna.net](http://neuro-vienna.net).
-
+opt out. You are now reading a small website we set up for future
+updates at [http://neuro-vienna.net](http://neuro-vienna.net).
 
 Looking forward to seeing you on November 19,
+
 Andrew Straw and Kristin Tessmar-Raible
