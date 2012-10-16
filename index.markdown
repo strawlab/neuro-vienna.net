@@ -2,7 +2,12 @@
 layout: invite
 title: Invitation Letter
 ---
+<div class="institutes">
+    <img src="assets/img/participants800.png" width="800x" height="80px">
+</div>
 
+<table cellpadding="20px"><tr>
+<td>
 <div class="large-center">
     Neuroscience Vienna Network<p>
     Kick-off Meeting<p>
@@ -10,8 +15,15 @@ title: Invitation Letter
     November 19th, 2012, 4.00 pm, IMBA lecture hall<p>
     Dr.-Bohr-Gasse 3, A-1030 Vienna<p>
 </div>
-
-
+</td>
+<td>
+<div>
+    Meeting sponsor:<p>
+    <a href="http://www.szabo-scandic.com/"><img src="assets/img/szabo_scandic.png" width="100px" height="100px" alt="Szabo Scandic"></a>
+</div>
+</td>
+</tr>
+</table>
 
 26 September 2012
 
