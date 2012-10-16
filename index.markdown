@@ -3,6 +3,16 @@ layout: invite
 title: Invitation Letter
 ---
 
+<div class="large-center">
+    Neuroscience Vienna Network<p>
+    Kick-off Meeting<p>
+    <p>
+    November 19th, 2012, 4.00 pm, IMBA lecture hall<p>
+    Dr.-Bohr-Gasse 3, A-1030 Vienna<p>
+</div>
+
+
+
 26 September 2012
 
 Dear neuroscience researcher in Vienna,
