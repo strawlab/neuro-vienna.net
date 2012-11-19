@@ -78,12 +78,12 @@ with: 1) if you will be attending and 2) if you are a PI, optionally a
 
 # Future updates and a website
 
-To keep in touch, please subscribe to our Google Group at
-[https://groups.google.com/forum/#!forum/neuroscience-in-vienna](https://groups.google.com/forum/#!forum/neuroscience-in-vienna). To
-keep you up to date about this and future meetings, we will also
-subscribe you to this list when RSVP - please indicate if you want to
-opt out. You are now reading a small website we set up for future
-updates at [http://neuro-vienna.net](http://neuro-vienna.net).
+To keep in touch, please subscribe to [our Google
+Group](http://bit.ly/neuro-vienna). To keep you up to date about this
+and future meetings, we will also subscribe you to this list when RSVP
+- please indicate if you want to opt out. You are now reading a small
+website we set up for future updates at
+[http://neuro-vienna.net](http://neuro-vienna.net).
 
 Looking forward to seeing you on November 19,
 
