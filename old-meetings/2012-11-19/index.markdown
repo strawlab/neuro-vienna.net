@@ -3,7 +3,7 @@ layout: invite
 title: Invitation Letter
 ---
 <div class="institutes">
-    <img src="assets/img/participants800.png" width="800x" height="80px">
+    <img src="/assets/img/participants800.png" width="800x" height="80px">
 </div>
 
 <table cellpadding="20px"><tr>
@@ -19,7 +19,7 @@ title: Invitation Letter
 <td>
 <div>
     Meeting sponsor:<p>
-    <a href="http://www.szabo-scandic.com/"><img src="assets/img/szabo_scandic.png" width="100px" height="100px" alt="Szabo Scandic"></a>
+    <a href="http://www.szabo-scandic.com/"><img src="/assets/img/szabo_scandic.png" width="100px" height="100px" alt="Szabo Scandic"></a>
 </div>
 </td>
 </tr>
